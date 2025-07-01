@@ -1,0 +1,27 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the fcitx5-table-extra package.
+#
+# Translators:
+# hhschen <204702481+hhschen@users.noreply.github.com>, 2025
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fcitx5-boshiamy\n"
+"Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
+"POT-Creation-Date: 2025-06-27 20:24+0000\n"
+"Last-Translator: Hung Hsun Chen, 2025\n"
+"Language-Team: Chinese (Taiwan)\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: org.fcitx.Fcitx5.Addon.Boshiamy.metainfo.xml.in:8
+msgid "Boshiamy input"
+msgstr "嘸蝦米輸入法"
+
+#: tables/boshiamy.conf.in:3
+msgid "Boshiamy"
+msgstr "嘸蝦米"
